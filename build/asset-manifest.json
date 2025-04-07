@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.918d9efd.css",
+    "main.js": "/static/js/main.4c579942.js",
+    "static/media/xsport.png": "/static/media/xsport.60a240aa9729f301ea26.png",
+    "static/media/askaii.png": "/static/media/askaii.d3ec2d78b40df9aaa4ee.png",
+    "static/media/huboweb.png": "/static/media/huboweb.33f0a739a4539a3b01ea.png",
+    "static/media/dashboard_askaii.png": "/static/media/dashboard_askaii.c4dd57478ef8c8317dab.png",
+    "static/media/me.jpeg": "/static/media/me.93695a9e0bcda4869c28.jpeg",
+    "index.html": "/index.html",
+    "main.918d9efd.css.map": "/static/css/main.918d9efd.css.map",
+    "main.4c579942.js.map": "/static/js/main.4c579942.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.918d9efd.css",
+    "static/js/main.4c579942.js"
+  ]
+}
